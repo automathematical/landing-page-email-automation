@@ -16,6 +16,7 @@ When someone signs up, this automation kicks in and sends a personalized welcome
 
 - **Listens** for new signups added to a **Google Sheet**
 - **Sends** a welcome email via **Gmail** (or your preferred provider)
+- **Sends** a Slack Bot message to a slach channel with the **email info**
 - Runs on autopilot every few minutes
 
 ---
@@ -26,17 +27,6 @@ When someone signs up, this automation kicks in and sends a personalized welcome
 2. **Action:** Send a personalized welcome email
 
 That's it — lightweight, effective, and easy to customize.
-
----
-
-## 📁 Project Structure
-
-landing-page-email-automation/
-├── workflows/
-│ └── landing_email_autoresponder.json
-├── screenshots/
-│ └── workflow-diagram.png
-├── README.md
 
 ---
 

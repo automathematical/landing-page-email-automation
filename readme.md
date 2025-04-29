@@ -4,7 +4,7 @@
 
 This project is a **fully automated workflow** built with [n8n](https://n8n.io), designed to improve the onboarding experience for new email signups through a landing page.
 
-When someone signs up, this automation kicks in and sends a personalized welcome email — no manual work required.
+When someone signs up, this automation kicks in and sends a personalized welcome email and a slack message with the signup info — no manual work required.
 
 ## 🖼 Visual Snapshot
 

@@ -25,6 +25,7 @@ When someone signs up, this automation kicks in and sends a personalized welcome
 
 1. **Trigger:** New row added in a Google Sheet
 2. **Action:** Send a personalized welcome email
+3. **Action:** Send the email info to slack
 
 That's it — lightweight, effective, and easy to customize.
 

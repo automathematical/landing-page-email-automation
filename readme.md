@@ -16,7 +16,7 @@ When someone signs up, this automation kicks in and sends a personalized welcome
 
 - **Listens** for new signups added to a **Google Sheet**
 - **Sends** a welcome email via **Gmail** (or your preferred provider)
-- **Sends** a Slack Bot message to a slach channel with the **email info**
+- **Sends** a Slack Bot message to a **slack channel** with the **email info**
 - Runs on autopilot every few minutes
 
 ---
